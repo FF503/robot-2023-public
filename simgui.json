@@ -1,0 +1,135 @@
+{
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/Shuffleboard/DriverStation/Auto Chooser/Alliance Color": "String Chooser",
+      "/Shuffleboard/DriverStation/Auto Chooser/Balance at End?": "String Chooser",
+      "/Shuffleboard/DriverStation/Auto Chooser/Number of Game Elements": "String Chooser",
+      "/Shuffleboard/DriverStation/Auto Chooser/Starting Grid": "String Chooser",
+      "/Shuffleboard/DriverStation/AutoMagic/Cell Select": "String Chooser",
+      "/Shuffleboard/DriverStation/AutoMagic/Grid Select": "String Chooser",
+      "/SmartDashboard/Field": "Field2d"
+    },
+    "windows": {
+      "/Shuffleboard/DriverStation/Auto Chooser/Alliance Color": {
+        "window": {
+          "visible": true
+        }
+      },
+      "/Shuffleboard/DriverStation/Auto Chooser/Balance at End?": {
+        "window": {
+          "visible": true
+        }
+      },
+      "/Shuffleboard/DriverStation/Auto Chooser/Number of Game Elements": {
+        "window": {
+          "visible": true
+        }
+      },
+      "/Shuffleboard/DriverStation/Auto Chooser/Starting Grid": {
+        "window": {
+          "visible": true
+        }
+      },
+      "/SmartDashboard/Field": {
+        "Charging Station": {
+          "arrows": false,
+          "length": 0.009999999776482582,
+          "width": 0.009999999776482582
+        },
+        "Obstacles": {
+          "arrows": false,
+          "length": 0.009999999776482582,
+          "weight": 0.10000000149011612,
+          "width": 0.009999999776482582
+        },
+        "Robot": {
+          "length": 0.5799999833106995,
+          "weight": 6.0,
+          "width": 0.5799999833106995
+        },
+        "TAG_1": {
+          "arrows": false,
+          "length": 0.0,
+          "weight": 0.20000000298023224,
+          "width": 0.30000001192092896
+        },
+        "TAG_2": {
+          "arrows": false,
+          "length": 0.0,
+          "weight": 0.20000000298023224,
+          "width": 0.30000001192092896
+        },
+        "TAG_3": {
+          "arrows": false,
+          "length": 0.0,
+          "weight": 0.20000000298023224,
+          "width": 0.30000001192092896
+        },
+        "TAG_6": {
+          "arrowSize": 17,
+          "arrows": false,
+          "length": 0.0,
+          "weight": 0.20000000298023224,
+          "width": 0.30000001192092896
+        },
+        "TAG_7": {
+          "arrows": false,
+          "length": 0.0,
+          "weight": 0.10000000149011612,
+          "width": 0.30000001192092896
+        },
+        "TAG_8": {
+          "arrows": false,
+          "length": 0.0,
+          "weight": 0.20000000298023224,
+          "width": 0.30000001192092896
+        },
+        "window": {
+          "visible": true
+        }
+      }
+    }
+  },
+  "NetworkTables": {
+    "Retained Values": {
+      "open": false
+    },
+    "persistent": {
+      "Shuffleboard": {
+        "DriverStation": {
+          "Auto Chooser": {
+            "open": true
+          },
+          "open": true
+        },
+        "open": true
+      }
+    },
+    "retained": {
+      "Shuffleboard": {
+        "DriverStation": {
+          "Auto Chooser": {
+            "Number of Game Elements": {
+              "open": true
+            },
+            "open": true
+          },
+          "open": true
+        },
+        "open": true
+      }
+    },
+    "transitory": {
+      "Shuffleboard": {
+        "DriverStation": {
+          "Auto Chooser": {
+            "open": true
+          },
+          "open": true
+        },
+        "open": true
+      }
+    }
+  }
+}

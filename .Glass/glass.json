@@ -1,0 +1,16 @@
+{
+  "NetworkTables": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/Shuffleboard/DriverStation/Auto Chooser/Alliance Color": "String Chooser",
+      "/Shuffleboard/DriverStation/Auto Chooser/Balance at End?": "String Chooser",
+      "/Shuffleboard/DriverStation/Auto Chooser/Number of Game Elements": "String Chooser",
+      "/Shuffleboard/DriverStation/Auto Chooser/Starting Grid": "String Chooser",
+      "/SmartDashboard/Field": "Field2d"
+    }
+  },
+  "NetworkTables Settings": {
+    "mode": "Client (NT3)",
+    "serverTeam": "503"
+  }
+}
